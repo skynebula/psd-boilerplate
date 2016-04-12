@@ -1,5 +1,5 @@
 # PSD Boilerplate
-### All you need to kickstart your web design project with from clean clate
+### All you need to kickstart your web design project from clean clate
 
 …
 
