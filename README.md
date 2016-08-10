@@ -1,7 +1,7 @@
 # PSD Boilerplate
 ### All you need to kickstart your web design project
 
-…
+A simple PSD boilerplate and script to start a web design project, using (for now) Material Design guidelines.
 
 -
 
